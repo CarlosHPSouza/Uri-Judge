@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.exe
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.deps.json
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.runtimeconfig.json
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.dll
+C:\Users\carlo\source\repos\uri20\uri20\bin\Debug\netcoreapp3.1\uri20.pdb
+C:\Users\carlo\source\repos\uri20\uri20\obj\Debug\netcoreapp3.1\uri20.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri20\uri20\obj\Debug\netcoreapp3.1\uri20.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri20\uri20\obj\Debug\netcoreapp3.1\uri20.dll
+C:\Users\carlo\source\repos\uri20\uri20\obj\Debug\netcoreapp3.1\uri20.pdb

@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.exe
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.deps.json
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.runtimeconfig.json
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.dll
+C:\Users\carlo\source\repos\uri75\uri75\bin\Debug\netcoreapp3.1\uri75.pdb
+C:\Users\carlo\source\repos\uri75\uri75\obj\Debug\netcoreapp3.1\uri75.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\uri75\uri75\obj\Debug\netcoreapp3.1\uri75.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri75\uri75\obj\Debug\netcoreapp3.1\uri75.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri75\uri75\obj\Debug\netcoreapp3.1\uri75.dll
+C:\Users\carlo\source\repos\uri75\uri75\obj\Debug\netcoreapp3.1\uri75.pdb

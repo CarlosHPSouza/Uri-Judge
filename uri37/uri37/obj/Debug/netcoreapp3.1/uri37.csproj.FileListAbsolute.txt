@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.exe
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.deps.json
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.runtimeconfig.json
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.dll
+C:\Users\carlo\source\repos\uri37\uri37\bin\Debug\netcoreapp3.1\uri37.pdb
+C:\Users\carlo\source\repos\uri37\uri37\obj\Debug\netcoreapp3.1\uri37.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\uri37\uri37\obj\Debug\netcoreapp3.1\uri37.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri37\uri37\obj\Debug\netcoreapp3.1\uri37.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri37\uri37\obj\Debug\netcoreapp3.1\uri37.dll
+C:\Users\carlo\source\repos\uri37\uri37\obj\Debug\netcoreapp3.1\uri37.pdb

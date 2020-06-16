@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.exe
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.deps.json
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.runtimeconfig.json
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.dll
+C:\Users\carlo\source\repos\uri13\uri13\bin\Debug\netcoreapp3.1\uri13.pdb
+C:\Users\carlo\source\repos\uri13\uri13\obj\Debug\netcoreapp3.1\uri13.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri13\uri13\obj\Debug\netcoreapp3.1\uri13.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri13\uri13\obj\Debug\netcoreapp3.1\uri13.dll
+C:\Users\carlo\source\repos\uri13\uri13\obj\Debug\netcoreapp3.1\uri13.pdb

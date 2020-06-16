@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.exe
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.deps.json
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.runtimeconfig.json
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.dll
+C:\Users\carlo\source\repos\uri48\uri48\bin\Debug\netcoreapp3.1\uri48.pdb
+C:\Users\carlo\source\repos\uri48\uri48\obj\Debug\netcoreapp3.1\uri48.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri48\uri48\obj\Debug\netcoreapp3.1\uri48.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri48\uri48\obj\Debug\netcoreapp3.1\uri48.dll
+C:\Users\carlo\source\repos\uri48\uri48\obj\Debug\netcoreapp3.1\uri48.pdb

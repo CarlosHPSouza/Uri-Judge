@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.exe
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.deps.json
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.runtimeconfig.json
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.dll
+C:\Users\carlo\source\repos\uri46\uri46\bin\Debug\netcoreapp3.1\uri46.pdb
+C:\Users\carlo\source\repos\uri46\uri46\obj\Debug\netcoreapp3.1\uri46.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\uri46\uri46\obj\Debug\netcoreapp3.1\uri46.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri46\uri46\obj\Debug\netcoreapp3.1\uri46.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri46\uri46\obj\Debug\netcoreapp3.1\uri46.dll
+C:\Users\carlo\source\repos\uri46\uri46\obj\Debug\netcoreapp3.1\uri46.pdb

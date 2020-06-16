@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.exe
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.deps.json
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.runtimeconfig.json
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.dll
+C:\Users\carlo\source\repos\uri114\uri114\bin\Debug\netcoreapp3.1\uri114.pdb
+C:\Users\carlo\source\repos\uri114\uri114\obj\Debug\netcoreapp3.1\uri114.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\uri114\uri114\obj\Debug\netcoreapp3.1\uri114.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri114\uri114\obj\Debug\netcoreapp3.1\uri114.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri114\uri114\obj\Debug\netcoreapp3.1\uri114.dll
+C:\Users\carlo\source\repos\uri114\uri114\obj\Debug\netcoreapp3.1\uri114.pdb

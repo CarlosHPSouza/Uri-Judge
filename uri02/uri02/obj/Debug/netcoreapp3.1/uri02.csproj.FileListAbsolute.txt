@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.exe
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.deps.json
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.runtimeconfig.json
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.dll
+C:\Users\carlo\source\repos\uri02\uri02\bin\Debug\netcoreapp3.1\uri02.pdb
+C:\Users\carlo\source\repos\uri02\uri02\obj\Debug\netcoreapp3.1\uri02.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri02\uri02\obj\Debug\netcoreapp3.1\uri02.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri02\uri02\obj\Debug\netcoreapp3.1\uri02.dll
+C:\Users\carlo\source\repos\uri02\uri02\obj\Debug\netcoreapp3.1\uri02.pdb

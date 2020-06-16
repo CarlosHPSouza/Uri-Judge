@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.exe
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.deps.json
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.runtimeconfig.json
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.dll
+C:\Users\carlo\source\repos\uri05\uri05\bin\Debug\netcoreapp3.1\uri05.pdb
+C:\Users\carlo\source\repos\uri05\uri05\obj\Debug\netcoreapp3.1\uri05.csprojAssemblyReference.cache
+C:\Users\carlo\source\repos\uri05\uri05\obj\Debug\netcoreapp3.1\uri05.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri05\uri05\obj\Debug\netcoreapp3.1\uri05.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri05\uri05\obj\Debug\netcoreapp3.1\uri05.dll
+C:\Users\carlo\source\repos\uri05\uri05\obj\Debug\netcoreapp3.1\uri05.pdb

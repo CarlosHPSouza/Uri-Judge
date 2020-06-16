@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.exe
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.deps.json
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.runtimeconfig.json
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.dll
+C:\Users\carlo\source\repos\uri40\uri40\bin\Debug\netcoreapp3.1\uri40.pdb
+C:\Users\carlo\source\repos\uri40\uri40\obj\Debug\netcoreapp3.1\uri40.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri40\uri40\obj\Debug\netcoreapp3.1\uri40.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri40\uri40\obj\Debug\netcoreapp3.1\uri40.dll
+C:\Users\carlo\source\repos\uri40\uri40\obj\Debug\netcoreapp3.1\uri40.pdb

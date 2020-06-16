@@ -1,0 +1,11 @@
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.exe
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.deps.json
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.runtimeconfig.json
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.dll
+C:\Users\carlo\source\repos\uri15\uri15\bin\Debug\netcoreapp3.1\uri15.pdb
+C:\Users\carlo\source\repos\uri15\uri15\obj\Debug\netcoreapp3.1\uri15.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri15\uri15\obj\Debug\netcoreapp3.1\uri15.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri15\uri15\obj\Debug\netcoreapp3.1\uri15.dll
+C:\Users\carlo\source\repos\uri15\uri15\obj\Debug\netcoreapp3.1\uri15.pdb
+C:\Users\carlo\source\repos\uri15\uri15\obj\Debug\netcoreapp3.1\uri15.csprojAssemblyReference.cache

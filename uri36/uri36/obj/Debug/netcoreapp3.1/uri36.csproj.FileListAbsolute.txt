@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.exe
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.deps.json
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.runtimeconfig.json
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.runtimeconfig.dev.json
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.dll
+C:\Users\carlo\source\repos\uri36\uri36\bin\Debug\netcoreapp3.1\uri36.pdb
+C:\Users\carlo\source\repos\uri36\uri36\obj\Debug\netcoreapp3.1\uri36.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\uri36\uri36\obj\Debug\netcoreapp3.1\uri36.AssemblyInfo.cs
+C:\Users\carlo\source\repos\uri36\uri36\obj\Debug\netcoreapp3.1\uri36.dll
+C:\Users\carlo\source\repos\uri36\uri36\obj\Debug\netcoreapp3.1\uri36.pdb
